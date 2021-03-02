@@ -1,3 +1,3 @@
 21 DAYS RESPONSIVE CHALLENGE (CONQUERING RESONSIVE LAYOUTS)
 
-DAY1: Distiguishing between Percentage and Fixed Widths
+DAY1: Using percentages and avoiding heights
